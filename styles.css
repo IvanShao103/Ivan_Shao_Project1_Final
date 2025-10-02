@@ -1,0 +1,33 @@
+body {
+  background-color: #141b41;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.page-header,
+.page-footer {
+  background-color: #306bac;
+}
+
+.contianer {
+  max-width: 1000px;
+  width: 100%;
+  padding: 40px;
+  display: table-cell;
+}
+.profile-image {
+  float: left;
+  max-width: 200px;
+  width: 100%;
+  height: auto;
+  border-radius: 150px;
+}
+
+.about-me {
+  background-color: #6f9ceb;
+  height: fit-content;
+  width: fit-content;
+}
+
+.intresting-facts {
+  background-color: #98b9f2;
+}
